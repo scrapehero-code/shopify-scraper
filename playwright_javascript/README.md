@@ -13,6 +13,10 @@ Step 4: Install the necessary browsers required for playwright
 Step 5: Run the scraper code using
 >` node main.js`
 
+:memo: ***More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/)***.
+
+:bulb: ***To collect product data from any Shopify powered website on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/)***.
+
 The results will be stored into a `shopifyData.json` in your project directory.
 Using the search_term as `Texas Homes for Sale` in Zillow, we get the sample data shown below.
 ```json
@@ -294,11 +298,3 @@ Using the search_term as `Texas Homes for Sale` in Zillow, we get the sample dat
         ]
     },
 ```
-
-<br>
-
-### To collect property listing data from Zillow on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/).
-
-<br>
-
-### More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/).
