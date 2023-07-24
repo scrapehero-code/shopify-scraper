@@ -5,17 +5,20 @@
 Step 2: cd into the `playwright_javascript` directory.
 
 Step 3: Install the dependencies mentioned in the `package.json` file using the command.
->`npm install`
 
-Step 4: Install the necessary browsers required for playwright 
->`playwright install`
+        npm install
 
-Step 5: Run the scraper code using
->` node main.js`
+Step 4: Install the necessary browsers required for playwright.
 
-:memo: ***More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/)***.
+        playwright install
 
-:bulb: ***To collect product data from any Shopify powered website on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/)***.
+Step 5: Run the scraper code using.
+
+        node main.js
+
+> :memo: ***More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/)***.
+
+>:bulb: ***To collect product data from any Shopify powered website on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/)***.
 
 The results will be stored into a `shopifyData.json` in your project directory.
 Using the search_term as `Texas Homes for Sale` in Zillow, we get the sample data shown below.
