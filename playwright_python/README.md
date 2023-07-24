@@ -16,6 +16,10 @@ Step 5: Run the scraper code using
 
      python main.py
 
+>:memo: ***More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/)***.
+
+>:bulb: ***To collect product data from any Shopify powered website on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/)***.
+
 The results will be stored into a shopify_scraper.json in your project directory. Using the target site as `hauslondon.com`, we get the sample data shown below.
 
 
@@ -261,13 +265,3 @@ The results will be stored into a shopify_scraper.json in your project directory
         ]
     }
 ```
-
-
-
-<br>
-
-### To collect all products data from any Shopify powered website on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/shopify-scraper/).
-
-<br>
-
-### More resources on scraping and other related topics can be found [here](https://www.scrapehero.com/articles/).
