@@ -16,7 +16,7 @@ Step 5: Run the scraper code using
 
      python main.py
 
-The results will be stored into a shopify_scraper.json in your project directory. Using the target site as `hauslond.com`, we get the sample data shown below.
+The results will be stored into a shopify_scraper.json in your project directory. Using the target site as `hauslondon.com`, we get the sample data shown below.
 
 
 ```json
