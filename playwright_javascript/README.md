@@ -1,4 +1,4 @@
-# Zillow Scraper using Playwright Javascript
+# Shopify Scraper using Playwright Javascript
 
  Step 1:  Clone/download the repo to your local system.
 
